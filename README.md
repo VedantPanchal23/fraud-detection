@@ -118,7 +118,7 @@ Therefore Recall is the primary optimization metric.
 ## Deployment
 - Framework: Streamlit
 - Platform: Streamlit Community Cloud (free)
-- Live App: [Click Here](YOUR_DEPLOYED_APP_LINK)
+- Live App: [Click Here](https://fraud-detection-fi3drcswfdtiis39un4wgt.streamlit.app/)
 
 ### How to Run Locally
 ```bash
